@@ -1,0 +1,30 @@
+.first-image{
+  width: auto;
+  height: auto;
+  border-style: inset;
+}
+h1{
+  color: black;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+div{
+  margin-bottom: 5px;
+}
+h5{
+  text-align: left;
+  margin: 25px 50px 75px;
+  size: 40;
+  color: white;
+}
+.second-image{
+  width: 400px;
+  height: 350px;
+  border-style: inset;
+}
+body{
+  background-color: black;
+}
+col-md-4{
+  height: 350px;
+}
